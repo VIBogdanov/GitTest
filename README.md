@@ -1,1 +1,1 @@
-# tst
+# Test project for learnig Git
