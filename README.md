@@ -1,1 +1,1 @@
-# Test project for learnig Git
+# Test project for learnig Git.
